@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ems-backend-api", "ems-backend-api.csproj", "{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAAD35A2-6F9E-447D-A5AF-E38B93D781B0}
+	EndGlobalSection
+EndGlobal

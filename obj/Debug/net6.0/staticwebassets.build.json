@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jV91tOq9PxJ7NEOpSZaVCQ//QwTp4nxts4gavxPxdYM=",
+  "Source": "ems-backend-api",
+  "BasePath": "_content/ems-backend-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

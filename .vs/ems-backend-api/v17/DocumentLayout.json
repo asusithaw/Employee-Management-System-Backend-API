@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\React_App\\ems-backend-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\migrations\\20240423060523_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:migrations\\20240423060523_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|d:\\react_app\\ems-backend-api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7445AC-39AF-4147-AC2D-342F5C15BFD3}|ems-backend-api.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:09:19.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:14:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:58:26.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T05:35:57.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240423060523_initial.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Migrations\\20240423060523_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240423060523_initial.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Migrations\\20240423060523_initial.cs",
+              "RelativeToolTip": "Migrations\\20240423060523_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:05:23.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:05:45.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeContext.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:32:04.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\EmployeeContextModelSnapshot.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\EmployeeContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T06:06:01.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\React_App\\ems-backend-api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\React_App\\ems-backend-api\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T05:23:00.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
